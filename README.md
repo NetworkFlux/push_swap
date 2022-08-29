@@ -1,5 +1,12 @@
 # -- push_swap --
 
+## Usage
+
+```bash
+$ git clone https://github.com/NetworkFlux/push_swap.git && bash launch.sh
+$ cd DVF
+```
+
 <img src="https://github.com/NetworkFlux/push_swap/blob/master/imgs/perf100.gif" width="400" height="250"> <img src="https://github.com/NetworkFlux/push_swap/blob/master/imgs/perf500.gif" width="400" height="250">
 
 ## Topics -- 🚨
