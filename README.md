@@ -1,6 +1,6 @@
 # -- push_swap --
 
-  
+![](https://github.com/NetworkFlux/push_swap/blob/master/perfs.gif)
 
 ## Topics -- 🚨
 
