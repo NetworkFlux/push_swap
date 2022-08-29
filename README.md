@@ -1,5 +1,6 @@
 # -- push_swap --
 
+<img src="https://github.com/NetworkFlux/push_swap/blob/master/perfs.gif" width="250" height="250"/>
 ![](https://github.com/NetworkFlux/push_swap/blob/master/perfs.gif)
 
 ## Topics -- 🚨
