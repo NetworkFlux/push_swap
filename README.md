@@ -1,6 +1,6 @@
 # -- push_swap --
 
-## Usage
+## Usage -- 👈
 
 ```bash
 git clone https://github.com/NetworkFlux/push_swap.git && cd push_swap && bash launch.sh
@@ -8,7 +8,7 @@ git clone https://github.com/NetworkFlux/push_swap.git && cd push_swap && bash l
 
 <img src="https://github.com/NetworkFlux/push_swap/blob/master/imgs/perf100.gif" width="400" height="250"> <img src="https://github.com/NetworkFlux/push_swap/blob/master/imgs/perf500.gif" width="400" height="250">
 
-## Topics -- 🚨
+## Topics -- 🗝
 
 1. Sorting algorithms
 
@@ -38,7 +38,7 @@ Sorting values is simple. Sort them the fastest way possible is less simple. The
 - **5000** instructions on average for a stack of **500** integers
 
 
-## Rules
+## Rules -- 🚨
 
 If you are interested in the specifics of the project here is how it is supposed to work :
 
