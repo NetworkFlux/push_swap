@@ -1,16 +1,18 @@
-# 🥞 -- push_swap -- 🥞
+# -- push_swap --
 
   
 
-## 🚨 -- Topics
+## Topics -- 🚨
 
 1. Sorting algorithms
 
 2. Complexity
 
+3. C
+
   
 
-## 💡 -- Challenge
+## Challenge -- 💡
 
   
 
@@ -19,7 +21,7 @@ With only 2 stacks of integer values *(a and b)* and a limited set of instructio
   
   
 
-## ✅ -- Objectives
+## Objectives -- ✅
 
   
 
