@@ -73,3 +73,7 @@ If you are interested in the specifics of the project here is how it is supposed
 	rrb (reverse rotate b): Shift down all elements of stack b by 1. The last element becomes the first one.
 
 	rrr : rra and rrb at the same time.
+
+
+
+Thanks to [o-reo](https://github.com/o-reo "o-reo GitHub") for his [push_swap visualizer](https://github.com/o-reo/push_swap_visualizer "push_swap visualizer") ! 👍
