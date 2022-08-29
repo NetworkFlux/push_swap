@@ -76,4 +76,4 @@ If you are interested in the specifics of the project here is how it is supposed
 
 
 
-Thanks to [o-reo](https://github.com/o-reo "o-reo GitHub") for his [push_swap visualizer](https://github.com/o-reo/push_swap_visualizer "push_swap visualizer") ! 👍
+👍 Thanks to [o-reo](https://github.com/o-reo "o-reo GitHub") for his [push_swap visualizer](https://github.com/o-reo/push_swap_visualizer "push_swap visualizer") ! 👍
