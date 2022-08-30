@@ -1,6 +1,6 @@
 # -- push_swap --
 
-## Usage -- 👈
+## Usage (mac only) -- 👈
 
 ```bash
 git clone https://github.com/NetworkFlux/push_swap.git && cd push_swap && bash launch.sh
