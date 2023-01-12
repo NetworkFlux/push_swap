@@ -50,7 +50,7 @@ If you are interested in the specifics of the project here is how it is supposed
 
 	The stack b is empty.
 
--	The goal is to sort in ascending order numbers into stack a. To do so you have the following operations at your disposal :
+-	The goal is to sort in ascending order of numbers into stack a. To do so you have the following operations at your disposal :
 
 	sa (swap a): Swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements.
 
